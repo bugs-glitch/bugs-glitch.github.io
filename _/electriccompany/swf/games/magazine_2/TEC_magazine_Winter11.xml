@@ -1,0 +1,188 @@
+<PageflipDataSet>
+	<Settings PageWidth="326"
+			  PageHeight="395"
+			  AutoSize="false"
+			  
+			  StartPage="1"
+			  
+			  Hardcover="false"
+			  Hardpage="false"
+			  EmbossedPages="true"
+			  
+			  LargeCover="false"
+			  LargeCoverTopOversize="10"
+			  LargeCoverSideOversize="10"
+			  
+			  BackContent="false"
+			  BackFile="pages/demo_back.swf"
+			  BackActive="true"
+			  BackAlwaysVisible="true"
+			  
+
+			  HcoverAngle="-30" 
+			  ClickArea="50"
+			  AutoFlipArea="56"
+			  GotoPageSpeed="2"
+			  MousePursuitSpeed="5"
+			  OnReleaseSpeed="3"
+			  TearDistance="80"
+			  FlippingEnabled="true"
+			  
+			  startAutoFlip="false"
+			  AutoFlipDefaultInterval="5"
+			  AutoFlipLooping="true"
+			  
+			  RightToLeft="false"
+			  
+			  PageScale="false"
+			  
+			  PageCache="5"
+			  UnloadPages="false"
+			  PageLoaderBackColor="0x333333"
+		  	  PageLoaderColor="0x666666"
+		  	  
+			  TransparencyEnabled="false"
+			  TransparencyActivePage="false"
+			  
+			  PDFlink="games/magazine_2/pages/The_Electric_Company_Magazine_Winter_2011.pdf"
+			  ButtonHelp="true"
+			  
+			  ZoomAreaWidth="652"
+			  ZoomAreaHeight="394"
+			  ZoomFollowSpeed="5"
+			  ZoomActivePage="true"
+			  ZoomOnPageClick="false"
+			  DragZoom="true"
+			  
+			  ThumbnailsEnabled="true"
+			  
+			  LiveThumbnails="true"
+			  ThumbnailsActivePages="true"
+			  ThumbnailScale="true"
+			  ThumbnailWidth="104"
+			  ThumbnailHeight="120"
+			  ThumbnailPadding="20"
+			  ThumbnailBorderWidth="1"
+			  ThumbnailBorderColor="0x333333"
+			  ThumbnailBorderHoverColor="0xFFFFFF"			  
+			  			  
+			  MouseControl="true">
+			  
+			  <Sounds Enabled="true"
+			  		  EffectVolume="10"
+			  		  Start="games/magazine_2/pf1.mp3"
+					  End="games/magazine_2/pf2.mp3"
+					  TearOff="games/magazine_2/pf3.mp3" />
+					  
+	</Settings>
+	
+	<PageOrder>
+		<PageData PageFile="games/magazine_2/pages/small_pages/TEC-Mag-Front-Cover.jpg"
+				  LargeFile="games/magazine_2/pages/TEC-Mag-Front-Cover_lg.jpg"  />
+		
+		<PageData PageFile="games/magazine_2/pages/small_pages/page0.jpg" 
+				  LargeFile="games/magazine_2/pages/Spread_1.jpg"/>
+		<PageData PageFile="games/magazine_2/pages/small_pages/page1.jpg" 
+				  LargeFile="games/magazine_2/pages/Spread_1.jpg" />
+
+		<PageData PageFile="games/magazine_2/pages/small_pages/page2.jpg"
+				  LargeFile="games/magazine_2/pages/Spread_2.jpg" />
+		<PageData PageFile="games/magazine_2/pages/small_pages/page3.jpg"
+				  LargeFile="games/magazine_2/pages/Spread_2.jpg" />
+
+		<PageData PageFile="games/magazine_2/pages/small_pages/page4.jpg"
+				  LargeFile="games/magazine_2/pages/Spread_3.jpg" />
+		<PageData PageFile="games/magazine_2/pages/small_pages/page5.jpg"
+				  LargeFile="games/magazine_2/pages/Spread_3.jpg" />
+		
+		<PageData PageFile="games/magazine_2/pages/small_pages/page6.jpg" 
+				  LargeFile="games/magazine_2/pages/Spread_4.jpg" />
+		<PageData PageFile="games/magazine_2/pages/small_pages/page7.jpg"
+				  LargeFile="games/magazine_2/pages/Spread_4.jpg" />
+		
+		<PageData PageFile="games/magazine_2/pages/small_pages/page8.jpg"
+				  LargeFile="games/magazine_2/pages/Spread_5.jpg" />
+		<PageData PageFile="games/magazine_2/pages/small_pages/page9.jpg" 
+				  LargeFile="games/magazine_2/pages/Spread_5.jpg" />
+		
+		<PageData PageFile="games/magazine_2/pages/small_pages/page10.jpg"
+				  LargeFile="games/magazine_2/pages/Spread_6.jpg" />
+		<PageData PageFile="games/magazine_2/pages/small_pages/page11.jpg"
+				  LargeFile="games/magazine_2/pages/Spread_6.jpg" />
+
+		<PageData PageFile="games/magazine_2/pages/small_pages/page12.jpg"
+				  LargeFile="games/magazine_2/pages/Spread_7.jpg" />
+		<PageData PageFile="games/magazine_2/pages/small_pages/page13.jpg"
+				  LargeFile="games/magazine_2/pages/Spread_7.jpg" />
+		
+		<PageData PageFile="games/magazine_2/pages/small_pages/page14.jpg"
+				  LargeFile="games/magazine_2/pages/Spread_8.jpg" />
+		<PageData PageFile="games/magazine_2/pages/small_pages/page15.jpg"
+				  LargeFile="games/magazine_2/pages/Spread_8.jpg" />
+				  
+		<PageData PageFile="games/magazine_2/pages/small_pages/page16.jpg" 
+				  LargeFile="games/magazine_2/pages/Spread_9.jpg" />
+		<PageData PageFile="games/magazine_2/pages/small_pages/page17.jpg" 
+				  LargeFile="games/magazine_2/pages/Spread_9.jpg" />
+
+		<PageData PageFile="games/magazine_2/pages/small_pages/page18.jpg"
+				  LargeFile="games/magazine_2/pages/Spread_12.jpg" />
+		<PageData PageFile="games/magazine_2/pages/small_pages/page19.jpg"
+				  LargeFile="games/magazine_2/pages/Spread_12.jpg" />
+
+		<PageData PageFile="games/magazine_2/pages/small_pages/page20.jpg"
+				  LargeFile="games/magazine_2/pages/Spread_13.jpg" />
+		<PageData PageFile="games/magazine_2/pages/small_pages/page21.jpg"
+				  LargeFile="games/magazine_2/pages/Spread_13.jpg" />
+		
+		<PageData PageFile="games/magazine_2/pages/small_pages/page22.jpg" 
+				  LargeFile="games/magazine_2/pages/Spread_14.jpg" />
+		<PageData PageFile="games/magazine_2/pages/small_pages/page23.jpg"
+				  LargeFile="games/magazine_2/pages/Spread_14.jpg" />
+		
+		<PageData PageFile="games/magazine_2/pages/small_pages/page24.jpg"
+				  LargeFile="games/magazine_2/pages/Spread_15.jpg" />
+		<PageData PageFile="games/magazine_2/pages/small_pages/page25.jpg" 
+				  LargeFile="games/magazine_2/pages/Spread_15.jpg" />
+
+		<PageData PageFile="games/magazine_2/pages/small_pages/TEC-Mag-Back-Cover.jpg" 
+				  LargeFile="games/magazine_2/pages/TEC-Mag-Back-Cover_lg.jpg" />
+	</PageOrder>
+	
+	<TableOfContents>
+		<Title Name="Table of Contents:" />
+		
+		<Link Name="Features" TargetLabel="Features" Skip="true" />
+		<Link Name="New Features" TargetLabel="NewFeatures" Skip="true" />
+		<Link Name="Transparency" TargetLabel="Transparency" Skip="true" />
+		<Link Name="Page Spread Anim" TargetLabel="SpreadAnim" Skip="true" />
+		<Link Name="Sound Demo" TargetLabel="SoundDemo" Skip="true" />
+		<Link Name="Video Demo" TargetLabel="VideoDemo" Skip="true" />
+		<Link Name="Back Cover" TargetPage="18" Skip="true" />
+		<Link Name="Thumbnails" TargetPage="9999" />
+	</TableOfContents>
+
+	<Language SoundLoadingText="Loading sounds #"
+			  ZoomLoadingText="Loading zoom page #"
+			  PrintLoadingText="Loading print page #"
+				
+			  PagerText="Page #"	  
+			  ZoomPagerText="Zoom page #"
+			  ThumbnailPagerSingle="Thumbnails"
+			  ThumbnailPager="Thumbs #"
+			  ThumbnailPreviousPageButtonHelp="Previous page"
+			  ThumbnailNextPageButtonHelp="Next page"
+	
+			  PreviousPageButtonHelp="Flip backward 1 page"
+			  NextPageButtonHelp="Flip forward 1 page"
+			  ZoomLeftButtonHelp="Zoom page"
+			  ZoomRightButtonHelp="Zoom page"
+			  PrintLeftButtonHelp="Print page"
+			  PrintRightButtonHelp="Print page"
+			  ThumbnailButtonHelp="Thumbnail view"
+			  PDFButtonHelp="Download this book in pdf format"
+			  StartAutoFlipHelp="Start auto flipping"
+			  StopAutoFlipHelp="Stop auto flipping">
+	</Language>
+
+</PageflipDataSet>
