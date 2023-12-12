@@ -1,0 +1,250 @@
+body {
+background-image:url("../images/bg.png");
+background-repeat : repeat-x;
+font:76% Arial,sans-serif;
+margin:0;
+padding:0;
+text-align:center;
+}
+#cityholder {
+	background-image:url("../images/city.gif");
+	background-position:center bottom;
+	background-repeat:no-repeat;
+	height:750px;
+	width:100%;
+}
+#loginholder {
+position : absolute;
+top : -3px;
+width : 100%;
+height:20px;
+z-index:200;
+}
+#buttonContainer{
+	width:1014px !important;
+	margin:0 auto 0 auto;
+	height:0px;
+}
+#parentsButtons{
+	margin : 22px 0 -15px 838px;
+}
+#loginbar {
+height:18px;
+}
+#flashcontent {
+	border:2px solid #000000;
+	margin:0px auto 0 auto;
+	height:650px !important;
+	width:1014px !important;
+}
+#footer {
+background-color:#43C3EA;
+color:white;
+font-weight:bold;
+position:relative;
+text-align:center;
+}
+#footer a {
+color:white;
+}
+#footer_content {
+padding-left:40px;
+padding-right:40px;
+text-align:left;
+}
+#footer_small {
+font-weight:normal;
+}
+#pbsLogo {
+left:50%;
+margin:-30px 0 0 -540px;
+position:absolute;
+top:57px;
+z-index:100;
+}
+#pollButtons {
+left:50%;
+margin:80px 0 0 80px;
+position:absolute;
+width:65px;
+z-index:101;
+}
+#pollVoteButton {
+left:50%;
+margin:90px 0 0 140px;
+position:absolute;
+width:170px;
+z-index:102;
+}
+#pollResults {
+left:50%;
+margin:-180px 0 0 70px;
+position:absolute;
+width:220px;
+z-index:103;
+}
+#backTo {
+left:50%;
+margin:-300px 0 0 370px;
+position:absolute;
+}
+.commManager {
+height:10px;
+left:1400px;
+position:absolute;
+top:10px;
+width:10px;
+z-index:1000;
+}
+.releaseModel {
+height:10px;
+left:1400px;
+position:absolute;
+top:20px;
+width:10px;
+z-index:1000;
+}
+.categoryModel {
+height:10px;
+left:1400px;
+position:absolute;
+top:30px;
+width:10px;
+z-index:1000;
+}
+#footer{
+	position : absolute; 
+	left : 0;
+	width : 100%; 
+	height : 220px;
+	background-color : #43C3EA; 
+}
+
+#footerContainer{
+	margin : 0 auto 0 auto; 
+	padding-left : 20px;
+	width : 1020px;
+	color : white; 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size : 12px; 
+	font-weight : 500; 
+}
+
+#bottomTier{
+	font-size : 11px; 
+}
+
+#middleTier{
+	width : 1020px;
+	float : left; 
+	margin-bottom : 3px;
+}
+
+.middleChild{
+	margin-right : 245px;
+	float : left;
+}
+
+#producedBy{
+	margin : 0 0 20px 0;
+	float : left; 
+	width : 1020px; 
+}
+
+#producedBy li{
+	float : left;
+	padding-right : 20px;
+	list-style : none; 
+	list-style-type : none;
+}
+
+#lastChild{
+	margin-top : 13px; 
+}
+
+#lastChild a{
+	color : white;
+	text-decoration : underline;
+	font-weight : bold; 
+}
+
+#topTier{
+	margin-bottom : 10px; 
+	width : 1020px;
+}
+
+#topLeft {
+	text-align:left; 
+	float : left;
+	margin-bottom : 20px;
+	color : #FFFFFF;		
+}
+
+#topLeft ul{
+	margin : -20px 0 0 590px;
+	float : left; 
+}
+
+#topLeft ul li{
+	float : left; 
+	margin-top : 10;
+	list-style : none; 
+	list-style-type : none; 
+	padding : 10px;
+	color : #FFFFFF;	
+	text-decoration : underline;
+	font-weight : bold;
+	
+}
+
+#topLeft ul a li{
+	float : left; 
+	margin-top : 10;
+	list-style : none; 
+	list-style-type : none; 
+	padding : 10px;
+	color : #FFFFFF;	
+	text-decoration : underline;
+	font-weight : bold;
+}
+
+#topLeft a{
+	color : #FFFFFF;
+}
+
+
+
+#pbskidsgologinwelcome
+{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 12px;
+color: #FFF;
+}
+
+#pbskidsgologinbar,
+#pbskidsgologinbar a:link,
+#pbskidsgologinbar a:visited,
+#pbskidsgologinbar a:hover,
+#pbskidsgologinbar a:active
+{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 12px;
+color: #548423;
+background-color: #9C0;
+}
+
+#pbskidsgologinbar {
+height: 19px !important;
+padding: 4px 0 2px 30px;
+position: relative;
+text-align: left;
+}
+
+#pbskidsgoavatar {
+display: block;
+float: left;
+left: 0;
+position: absolute;
+top: 0;
+width: 25px;
+}
