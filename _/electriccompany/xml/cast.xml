@@ -1,0 +1,219 @@
+<ec>
+<cast>
+<member id="hector" image="hector.jpg" canBeFavorite="true">
+<printouts>
+<printout id="Sure Shot: ell" image="hector_thumb3.jpg" file="5_ell.pdf"/>
+<printout id="Sure Shot: ight" image="hector_thumb1.jpg" file="70_ight.pdf"/>
+<printout id="Sure Shot: vowel y" image="hector_thumb2.jpg" file="38_vowel y.pdf"/>
+<printout id="Sure Shot: long u" image="hector_thumb4.jpg" file="60_long u.pdf"/>
+</printouts>
+<aboutme>
+<about src="hector2.png" txt="Hey guys, it’s me Hector. I love playing basketball, and I’m pretty good at it too, if I do say so myself!"/>
+<about src="hector5.png" txt="As the oldest member of The Electric Company. I try to keep the gang and my sister out of trouble."/>
+<about src="hector1.png" txt="My special power is photo recall. I can make a picture in the air of anything I see."/>
+<about src="hector3.png" txt="Yeah, I sing, I dance, I rap… and my hair is always looking fresh!"/>
+<about src="hector4.png" txt="Now that I’m working at the Electric Diner, if the guys ever need my help, they know where to find me!"/>
+</aboutme>
+</member>
+<member id="jessica" image="jessica.jpg" canBeFavorite="true">
+<printouts>
+<printout id="Journal Jumble: s" image="jessica_thumb1.jpg" file="36_s.pdf"/>
+<printout id="Journal Jumble: st" image="jessica_thumb2.jpg" file="72_st.pdf"/>
+<printout id="Journal Jumble: short u #1" image="jessica_thumb3.jpg" file="28_short u.pdf"/>
+<printout id="Journal Jumble: r-controlled vowels" image="jessica_thumb4.jpg" file="9_r controlled vowels.pdf"/>
+<printout id="Journal Jumble: f and fl" image="jessica_thumb5.jpg" file="16_f and fl.pdf"/>
+<printout id="Journal Jumble: short u #2" image="jessica_thumb6.jpg" file="58_short u.pdf"/>
+<printout id="Journal Jumble: ee" image="jessica_thumb7.jpg" file="20_ee.pdf"/>
+<printout id="Journal Jumble: tr" image="jessica_thumb8.jpg" file="42_tr.pdf"/>
+<printout id="Journal Jumble: short e" image="jessica_thumb9.jpg" file="65_short e.pdf"/>
+<printout id="Journal Jumble: ch" image="jessica_thumb10.jpg" file="76_ch.pdf"/>
+</printouts>
+<aboutme>
+<about src="jessica1.png" txt="The Electric Company crew is pretty tight. We make a great problem solving team!"/>
+<about src="jessica2.png" txt="I have a special “aural recall” power. That means I can record and play back anything I hear!"/>
+<about src="jessica3.png" txt="I might be younger and smaller than my bro, Hector, but sometimes I am exactly who he needs."/>
+<about src="jessica4.png" txt="We don’t always see eye to eye (he’s a lot taller than me!) but Hector and I have a lot of fun together."/>
+<about src="jessica5.png" txt="I’m a problem solver. Luckily, my friends are, too, so we can always beat the pranksters at their own game."/>
+<about src="jessica6.png" txt="I like to sing and dance, and I can rap too! Shock, gimme a beat!"/>
+<about src="jessica7.png" txt="Marcus is new to the Company, so I look out for him. I always have his back."/>
+</aboutme>
+</member>
+<member id="manny" image="manny.jpg" canBeFavorite="true">
+<printouts>
+<printout id="Manny's B.L.T.: ight" image="manny_thumb1.jpg" file="71_ight.pdf"/>
+<printout id="Manny's B.L.T.: hard and soft c" image="manny_thumb3.jpg" file="61_hard and soft c.pdf"/>
+<printout id="Manny's B.L.T.: st" image="manny_thumb6.jpg" file="2_st.pdf"/>
+<printout id="Manny's B.L.T.: fl" image="manny_thumb2.jpg" file="15_fl.pdf"/>
+<printout id="Manny's B.L.T.: br" image="manny_thumb4.jpg" file="45_br.pdf"/>
+<printout id="Manny's B.L.T.: gr" image="manny_thumb5.jpg" file="26_gr.pdf"/>
+<printout id="Manny's B.L.T.: sh" image="manny_thumb7.jpg" file="31_sh.pdf"/>
+<printout id="Manny's B.L.T.: ch" image="manny_thumb8.jpg" file="77_ch.pdf"/>
+</printouts>
+<aboutme>
+<about src="manny1.png" txt="I can invent any gadget imaginable! My favorite inventions are the ones that mess with the Electric Company!"/>
+<about src="manny6.png" txt="Introducing…Count Vacula! He is just one of my many great inventions!"/>
+<about src="manny2.png" txt="My Little Mean Robot and I do everything together. We’re best friends and partners in playing pranks!"/>
+<about src="manny3.png" txt="Here I am with Little Mean Robot at the neighborhood dance-off. I programmed him with some sweet moves."/>
+<about src="manny4.png" txt="Get outta my way! I am the Mighty Bright Knight!"/>
+<about src="manny5.png" txt="I’m a very talented actor. I’m so talented that The Electric Company begged me to star in their movie."/>
+</aboutme>
+</member>
+<member id="danny" image="danny.jpg" canBeFavorite="true">
+<printouts>
+<printout id="Rebus Roundup: silent e" image="danny_thumb1.jpg" file="24_silent e.pdf"/>
+<printout id="Rebus Roundup: short e" image="danny_thumb2.jpg" file="1_short e.pdf"/>
+<printout id="Rebus Roundup: short u #1" image="danny_thumb3.jpg" file="25_short u.pdf"/>
+<printout id="Rebus Roundup: r-controlled vowels" image="danny_thumb5.jpg" file="37_r controlled vowels.pdf"/>
+<printout id="Rebus Roundup: short i and ick" image="danny_thumb4.jpg" file="13_short i and ick.pdf"/>
+<printout id="Rebus Roundup: fl" image="danny_thumb6.jpg" file="43_fl.pdf"/>
+<printout id="Rebus Roundup: short a" image="danny_thumb7.jpg" file="7_short a.pdf"/>
+<printout id="Rebus Roundup: oa and oat" image="danny_thumb8.jpg" file="49_oa and oat.pdf"/>
+<printout id="Rebus Roundup: short u #2" image="danny_thumb9.jpg" file="56_short_u.pdf"/>
+<printout id="Rebus Roundup: st" image="danny_thumb10.jpg" file="73_st.pdf"/>
+<printout id="Rebus Roundup: ch" image="danny_thumb11.jpg" file="74_ch.pdf"/>
+</printouts>
+<aboutme>
+<about src="danny1.png" txt="I, Danny Rebus, have the power to create rebus puzzles. This comes in handy when pulling pranks!"/>
+<about src="danny2.png" txt="Yes. I admit it. I can be sensitive. Here is one time that I really bugged out."/>
+<about src="danny4.png" txt="The Electric Company never invites me to do anything. Who needs them? I've got my old pal Manny!"/>
+<about src="danny6.png" txt="When Hector does include me I suppose we get along well."/>
+<about src="danny5.png" txt="Sure I’m a prankster, but I am also a dog lover. I dream of being The Puppy Hero!"/>
+<about src="danny3.png" txt="I love to sing and dance! When I do I just feel so… Danny."/>
+</aboutme>
+</member>
+<member id="keith" image="keith.jpg" canBeFavorite="true">
+<printouts>
+<printout id="Words Across: Two sounds of s" image="keith_thumb1.jpg" file="68_two sounds of s.pdf"/>
+<printout id="Words Across: hard and soft c" image="keith_thumb2.jpg" file="57_hard and soft c.pdf"/>
+<printout id="Words Across: short a" image="keith_thumb3.jpg" file="8_short a.pdf"/>
+<printout id="Words Across: s" image="keith_thumb4.jpg" file="34_s.pdf"/>
+<printout id="Words Across: m" image="keith_thumb5.jpg" file="62_m.pdf"/>
+<printout id="Words Across: gr" image="keith_thumb6.jpg" file="46_gr.pdf"/>
+<printout id="Words Across: vowel y" image="keith_thumb7.jpg" file="41_vowel y.pdf"/>
+</printouts>
+<aboutme>
+<about src="keith1.png" txt="I was pretty young when I discovered I can make wordballs. Now I compete in The Wordball Games!"/>
+<about src="keith2.png" txt="My special power is image creation. I can draw any picture I want in the air!"/>
+<about src="keith3.png" txt="I can be a little competitive… but I just love playing sports and having fun."/>
+<about src="keith4.png" txt="I also love making music. Any chance I get, I break out my guitar."/>
+<about src="keith5.png" txt="The Electric Diner has delicious cheese omelets. Fortunately, they taste better than they smell!"/>
+<about src="keith6.png" txt="Sure we all have special skills, but only I broke the record for most clothing worn at once!"/>
+</aboutme>
+</member>
+<member id="annie" image="annie.jpg" canBeFavorite="true">
+<printouts>
+<printout id="Hop Sock: silent e #1" image="annie_thumb1.jpg" file="23_silent e.pdf"/>
+<printout id="Hop Sock: silent e #2" image="annie_thumb2.jpg" file="53_silent e.pdf"/>
+</printouts>
+<aboutme>
+<about src="annie1.png" txt="Hello, Annie Scrambler here! Thanks for checking out my profile. I know you’re going to love it."/>
+<about src="annie4.png" txt="When I stomp my feet, I can scramble words. This can be very useful when trying to confuse The Electric Company."/>
+<about src="annie5.png" txt="Uncle Sigmund is my favorite uncle! I’d do anything to help him out. Of course, I’m also his favorite niece."/>
+<about src="annie2.png" txt="He is teaching me how to hypnotize. One day I’ll be able to make The Electric Company do anything I tell them to."/>
+<about src="annie3.png" txt="Here I am with my Aunt Sandy. She’s not only the best aunt a girl could have, but also the best dresser I know! "/>
+<about src="annie6.png" txt="At the Spooky Summer Soiree, I taught Gilda Flip all I know about putting together a great costume!"/>
+</aboutme>
+</member>
+<member id="francine" image="francine.jpg" canBeFavorite="true">
+<printouts>
+<printout id="Rhyming Riddles: silent e" image="francine_thumb1.jpg" file="19_silent e.pdf"/>
+<printout id="Rhyming Riddles: short o" image="francine_thumb2.jpg" file="10_short o.pdf"/>
+<printout id="Rhyming Riddles: oa" image="francine_thumb3.jpg" file="54_oa.pdf"/>
+<printout id="Rhyming Riddles: ou" image="francine_thumb4.jpg" file="78_ou.pdf"/>
+<printout id="Rhyming Riddles: vowel y" image="francine_thumb5.jpg" file="41_vowel y.pdf"/>
+<printout id="Rhyming Riddles: th" image="francine_thumb6.jpg" file="35_th.pdf"/>
+</printouts>
+<aboutme>
+<about src="francine1.png" txt="I’m Francine Carruthers. My profile is the best profile because, well, everything I do is perfect."/>
+<about src="francine2.png" txt="I use my wordball power responsibly and only when necessary – like when it will help me to win."/>
+<about src="francine3.png" txt="I’m a fantastic journalist. I’m very fair, especially when it comes to taking down The Electric Company"/>
+<about src="francine4.png" txt="This is my mother and me. She thinks I am so wonderful she even wanted to name a hotel in my honor."/>
+<about src="francine5.png" txt="Here I am with my science fair project: The Perfect Brain. Of course I used my perfect brain as the model."/>
+<about src="francine6.png" txt="Gilda looks up to me. Who wouldn’t? I’m teaching her all I know about being a prankster. She has a lot to learn."/>
+</aboutme>
+</member>
+<member id="lisa" image="lisa.jpg" canBeFavorite="true">
+<printouts>
+<printout id="Letter Logic: oke" image="lisa_thumb1.jpg" file="50_oke.pdf"/>
+<printout id="Letter Logic: st" image="lisa_thumb2.jpg" file="6_st.pdf"/>
+<printout id="Letter Logic: ug" image="lisa_thumb3.jpg" file="30_ug.pdf"/>
+<printout id="Letter Logic: mp" image="lisa_thumb4.jpg" file="67_mp.pdf"/>
+<printout id="Letter Logic: ame" image="lisa_thumb5.jpg" file="21_ame.pdf"/>
+<printout id="Letter Logic: ain" image="lisa_thumb6.jpg" file="48_ain.pdf"/>
+<printout id="Letter Logic: un" image="lisa_thumb7.jpg" file="59_un.pdf"/>
+</printouts>
+<aboutme>
+<about src="lisa1.png" txt="I am an unscrambling machine! With my word decoding skill, I can tackle anything the Pranksters try."/>
+<about src="lisa2.png" txt="I love being creative with my friends. Here I am directing a movie we made together!"/>
+<about src="lisa3.png" txt="I like to sing and act. Though sometimes I have to overcome stage fright."/>
+<about src="lisa4.png" txt="Science is my favorite subject, and Dax is my favorite lab partner!"/>
+<about src="lisa6.png" txt="If you see me dancing, watch out! Seriously. I can be all over the place!"/>
+<about src="lisa7.png" txt="The more I practice though, the better I get. At the neighborhood dance-off Shock and I won!"/>
+<about src="lisa9.png" txt="I went to Space Camp recently. It was awesome!! I highly recommend it."/>
+</aboutme>
+</member>
+<member id="paul" image="paul.jpg" canBeFavorite="true">
+<printouts>
+<printout id="Poster Puzzle: ou" image="paul_thumb1.jpg" file="79_ou.pdf"/>
+<printout id="Poster Puzzle: short e" image="paul_thumb2.jpg" file="64_short e.pdf"/>
+<printout id="Poster Puzzle: silent e" image="paul_thumb3.jpg" file="51_silent e.pdf"/>
+<printout id="Poster Puzzle: tr and dr" image="paul_thumb4.jpg" file="40_tr and dr.pdf"/>
+<printout id="Poster Puzzle: sh" image="paul_thumb5.jpg" file="32_sh.pdf"/>
+<printout id="Poster Puzzle: short i" image="paul_thumb6.jpg" file="14_short i.pdf"/>
+</printouts>
+<aboutme>
+<about src="paul2.png" txt="Hi, I’m Paul. People tell me I’m a pretty nice guy, but I’m a gorilla. So I guess I’m a pretty nice gorilla. "/>
+<about src="paul1.png" txt="I've got a lot going on, but I always make time to help out The Electric Company whenever they need me."/>
+<about src="paul4.png" txt="When making movies, the Electric Company knows who to call when they need a camera guy!"/>
+<about src="paul6.png" txt="I love sports. Ping pong is one of my favorite games. I have an outstanding backhand."/>
+<about src="paul3.png" txt="I can break it down real nice. By that I mean I am quite the dancer."/>
+<about src="paul5.png" txt="There is nothing I enjoy more than doing a crossword puzzle on a quiet park bench. "/>
+</aboutme>
+</member>
+<member id="marcus" image="marcus.jpg" canBeFavorite="true">
+<printouts>
+<printout id="Add A Word: cr and br" image="marcus_thumb1.jpg" file="18_cr and br.pdf"/>
+<printout id="Add A Word: m" image="marcus_thumb2.jpg" file="63_m.pdf"/>
+</printouts>
+<aboutme>
+<about src="marcus1.png" txt="Hi! I just got the power and was sworn in as an official member of The Electric Company!"/>
+<about src="marcus2.png" txt="I also have a special number power. Any math problem you have, I’m on it!"/>
+<about src="marcus3.png" txt="I’m really excited to be part of the Company! Man, I can’t wait for all the adventures we’re going to have."/>
+<about src="marcus5.png" txt="Here I am with the guys at the diner. We’re coming up with a plan to beat the Pranksters at their own game."/>
+<about src="marcus4.png" txt="Oh yeah!!! I helped score the winning point for The Electric Company during the Wordball Games!"/>
+</aboutme>
+</member>
+<member id="gilda" image="gilda.jpg" canBeFavorite="true">
+<printouts>
+<printout id="Space Maze: silent e" image="gilda_thumb1.jpg" file="55_silent e.pdf"/>
+<printout id="Space Maze: short a and short o" image="gilda_thumb2.jpg" file="11_short a and short o.pdf"/>
+</printouts>
+<aboutme>
+<about src="gilda1.png" txt="I’m a prankster-in-training. I am trying to learn everything I can about being a prankster from Francine."/>
+<about src="gilda2.png" txt="Francine is the smartest prankster in the neighborhood and the only one who can make wordballs."/>
+<about src="gilda3.png" txt="I love coming up with ideas. I like to write them down in lists and keep them in a notebook."/>
+<about src="gilda4.png" txt="Sometimes I help out other pranksters. Here is Annie and me at the Spooky Summer Soiree costume contest."/>
+<about src="gilda5.png" txt="I may not have a special power yet, but I’m pretty great at braking records. I once broke six records in one day."/>
+</aboutme>
+</member>
+<member id="shock" image="shock.jpg" canBeFavorite="true">
+<printouts>
+<printout id="Shock's Shuffle: silent e #1" image="shock_thumb1.jpg" file="22_silent e.pdf"/>
+<printout id="Shock's Shuffle: short e" image="shock_thumb2.jpg" file="4_short e.pdf"/>
+<printout id="Shock's Shuffle: short i" image="shock_thumb3.jpg" file="17_short i.pdf"/>
+<printout id="Shock's Shuffle: oa and oat" image="shock_thumb4.jpg" file="52_oa and oat.pdf"/>
+<printout id="Shock's Shuffle: ai" image="shock_thumb5.jpg" file="44_ai.pdf"/>
+<printout id="Shock's Shuffle: silent e #2" image="shock_thumb6.jpg" file="66_silent e.pdf"/>
+<printout id="Shock's Shuffle: short o" image="shock_thumb7.jpg" file="12_short o.pdf"/>
+</printouts>
+<aboutme>
+<about src="shock1.png" txt="Hey, I'm Shock! I work in the Electric Diner and give The Electric Company a hand whenever they need me."/>
+<about src="shock2.png" txt="Need a nice beat to rap to? I’m your guy! I can teach you how to beatbox too. Just remember – boots and cuts!"/>
+<about src="shock3.png" txt="I’ve got some pretty talented friends. I like to beatbox while my buddy Mario takes the lead rapping."/>
+<about src="shock4.png" txt="I love hanging out with The Electric Company. There is always something crazy going on!"/>
+<about src="shock5.png" txt="What can I say? I guess I’m a great guy…"/>
+<about src="shock6.png" txt="This is me beatboxing with the one of the people I admire most: Doug E. Fresh!"/>
+</aboutme>
+</member>
+</cast>
+</ec>
